@@ -50,7 +50,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             _buildImageSection(),
             SizedBox(
-              height: 10,
+              height: 11,
             ),
             _buildPaymentSection(),
             SizedBox(
